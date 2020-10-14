@@ -1,0 +1,14 @@
+{
+  "name": "pruebas",
+  "version": "1.0.0",
+  "description": "pruebas de testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Marta Hernandez",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.5.3"
+  }
+}
